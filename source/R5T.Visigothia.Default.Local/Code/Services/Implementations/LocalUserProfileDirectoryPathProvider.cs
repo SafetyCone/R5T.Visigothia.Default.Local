@@ -3,7 +3,7 @@
 
 namespace R5T.Visigothia.Default.Local
 {
-    public class DefaultLocalUserProfileDirectoryPathProvider : IUserProfileDirectoryPathProvider
+    public class LocalUserProfileDirectoryPathProvider : IUserProfileDirectoryPathProvider
     {
         public string GetUserProfileDirectoryPath()
         {
